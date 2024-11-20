@@ -1,3 +1,4 @@
 # Operating System
-*CPU Schedulling Algorithm*
-*Page Replacement Algorithm*
+
+_CPU Schedulling Algorithm_
+_Page Replacement Algorithm_
