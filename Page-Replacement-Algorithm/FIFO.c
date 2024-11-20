@@ -6,6 +6,7 @@ int main() {
     int fault = 0, top = 0;
     int frames[capacity];
 
+    //Initialize frames with -1
     for (int i = 0; i < capacity; i++) {
         frames[i] = -1;
     }
